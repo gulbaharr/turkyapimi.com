@@ -389,7 +389,7 @@ export default function GameDetail() {
           Geri Dön
         </Button>
 
-        <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Main Content */}
 
           <div className="lg:col-span-2 space-y-6">
